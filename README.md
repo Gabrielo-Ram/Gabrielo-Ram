@@ -11,3 +11,10 @@ Check out some of the projects I've been working on!
 - [Developer Portfolio V1](https://github.com/Gabrielo-Ram/personal-website)
 - [Human-Computer Interaction Coursework Portfolio](https://gabrielo-ram.github.io/CS376-Coursework-Portfolio-Website/)
 - *More coming very soon...*
+
+---
+
+<h3 align="center">Songs I've got on repeat right now</h3>
+<p align="center">
+<img width="626" height="779" alt="Screenshot 2025-09-01 at 12 56 12 PM" src="https://github.com/user-attachments/assets/32f1e955-b2cb-4046-83e8-c77dfc5834b1"/>
+</p>
